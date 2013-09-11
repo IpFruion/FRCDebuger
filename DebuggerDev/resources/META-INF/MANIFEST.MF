@@ -1,6 +1,6 @@
 MIDlet-Name: DebuggerDev
 MIDlet-Version: 1.0.0
 MIDlet-Vendor: FIRST
-MIDlet-1: BTDebugMain, , edu.wpi.first.wpilibj.templates.BTDebugMain
+MIDlet-1: BTDebugMain, , BTRobot.debugger.main.BTDebugMain
 MicroEdition-Profile: IMP-1.0
 MicroEdition-Configuration: CLDC-1.1
