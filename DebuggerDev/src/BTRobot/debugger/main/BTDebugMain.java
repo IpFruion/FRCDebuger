@@ -24,7 +24,7 @@ public class BTDebugMain extends SimpleRobot {
     public void autonomous() {
         
     }
-
+    
     /**
      * This function is called once each time the robot enters operator control.
      */
@@ -37,5 +37,8 @@ public class BTDebugMain extends SimpleRobot {
      */
     public void test() {
     
+    }
+    public void disabled() {
+        
     }
 }
